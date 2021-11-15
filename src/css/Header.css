@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+.headerWrap{
+    height: 657px;
+    background-image: url("http://thinkgestalt.com/wp-content/uploads/2021/04/Artwork.png");
+    background-position: bottom center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.headerTitle
+{
+    margin: auto;
+    height: 80px;
+    overflow: hidden;
+    margin-top: 50px;
+    position: absolute;
+    width: 100%;
+    display: flex;  
+}
+.logo{
+    width: 60%;
+    text-align: left;
+    position: relative;
+    left: 70px;
+    top:30px
+}
+.menu{
+    width: 50%;
+    font-family: "Poppins", Sans-serif;
+    font-size: 11px;
+    font-weight: 500;
+    color: #000000;
+    position: relative;
+}
+.subHeading{
+    position: absolute;
+    top:25%;
+    left:20%
+   
+}
+.subHeading h1{
+    color: #000000;
+    font-family: "Poppins", Sans-serif;
+    font-size: 4.6vw;
+    font-weight: 600;
+    text-transform: capitalize;
+    font-style: italic;
+    
+}
+.subHeading h2
+{
+    color: #000000;
+    font-family: url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;600&display=swap');
+    font-size: 8vw;
+    font-weight: 700;
+    text-transform: capitalize;
+    margin-top: -62px;
+}

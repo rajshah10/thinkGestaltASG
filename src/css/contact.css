@@ -1,0 +1,82 @@
+.contactus span
+{
+    color: #000000;
+    font-family: url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,600;1,200;1,300&display=swap');
+    font-weight: 600;
+   
+}
+.contactus h1
+{
+    color: #000000;
+    font-family: url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,600;1,200;1,300&display=swap');
+    font-weight: 350;
+    font-size: 5vw;
+    font-style: italic;
+   
+}
+.form
+{
+    display: flex;
+    font-family: "Poppins", Sans-serif;
+    font-weight: 400;
+    letter-spacing: 2px;
+}
+.formarea
+{
+    margin-top: 120px;
+}
+input[type=text] {
+    width: 45%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border:none;
+    border-bottom:2px solid grey;
+    outline:none
+  }
+
+  input[type=email] {
+    width: 91%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border:none;
+    border-bottom:2px solid grey;
+    outline:none;
+    margin-bottom: 15px;
+  }
+  textarea {
+  width: 100%;
+  height: 150px;
+  padding: 12px 20px;
+  box-sizing: border-box;
+  border-radius: 4px;
+  font-size: 16px;
+  resize: none;
+  margin-top: 20px;
+  border:none;
+  border-bottom: 2px solid grey;
+  outline :none;
+  }
+  form>label
+  {
+      margin-top: 25px;
+  }
+  .button {
+    background-color: black; 
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    border-radius: 25px;
+    font-family: sans-serif;
+    float:right;
+    font-weight: bold;
+    font-style: italic;
+  }

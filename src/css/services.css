@@ -1,0 +1,55 @@
+.services{
+   text-align: left;
+   margin-left: 125px;
+  
+}
+
+.services-text h1{
+    color: #000000;
+    font-family: url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,600;1,200&display=swap');
+    font-size: 6vw;
+    font-weight: 600;
+   
+}
+.serv{
+    font-family: url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,600;1,200&display=swap');
+    font-weight: 350;
+}
+.services-text p {
+    color: black;
+    font-family: "Poppins", Sans-serif;
+    font-size: 1.3vw;
+    font-weight: 500;
+    line-height: 1.5em;
+    margin-top: -35px;
+    margin-left: 5px;
+}
+.cat{
+    display: flex;
+    border-bottom: 1px solid;
+    height: 78px;
+    margin-bottom: 30px;
+
+}
+.cat h6{
+    color: black;
+    font-size: 35px;
+    margin-top: 8px;
+    margin-left: 23px;
+    font-weight: 600;
+    font-style: italic;
+    
+}
+.categories
+{
+    display: flex;
+    margin-top: 50px;
+}
+.services-images img
+{   
+   height:700px;
+    margin-left: 260px;
+    margin-top: -28px;
+  
+
+}
